@@ -1,0 +1,6 @@
+{
+  "name": "Ghost-Fleet",
+  "description": "Editorial heavy-duty truck telemetry, stealth protocol tracking, fuel management, and central fleet intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
